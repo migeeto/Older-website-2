@@ -39,12 +39,14 @@ h1 {
 #sidebar-a {
   float: right;
   width: 280px;
+  line-height: 18px;
 }
 #sidebar-a .padding {
   padding: 25px;
 }
 #content {
   margin-right: 280px;
+  line-height: 18px;
 }
 #content .padding {
   padding: 25px;
