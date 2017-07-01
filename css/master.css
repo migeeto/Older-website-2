@@ -5,6 +5,10 @@ html, body {
 .hidden {
   display: none;
 }
+h1 {
+  margin: 0;
+  padding: 0;
+}
 #page-container {
   width: 760px;
   margin: auto;
