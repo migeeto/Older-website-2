@@ -1,41 +1,4 @@
-#nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
+h1 {
   font-family: "Lucida Console", Monaco, monospace;
-}
-#nav li {
-  float: left;
-}
-#nav li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-#nav li a:hover {
-  background-color: #111;
-}
-.active {
-  background-color: LightSteelBlue;
-}
-#header {
-  background-color: green;
-  width: 100%;
-}
-#content {
-  background-color: blue;
-  margin-right: 25%;
-}
-#sidebar {
-  background-color: red;
-  margin-left: 25%;
-  float: right;
-}
-#footer {
-  background-color: purple;
-  100%;
+  font-weight: 36px;
 }
