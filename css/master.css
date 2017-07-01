@@ -40,8 +40,14 @@ h1 {
   float: right;
   width: 280px;
 }
+#sidebar-a .padding {
+  padding: 25px;
+}
 #content {
   margin-right: 280px;
+}
+#content .padding {
+  padding: 25px;
 }
 #footer {
   height: 66px;
