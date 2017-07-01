@@ -1,6 +1,16 @@
-#nav {
-  background-color: grey;
-  width: 100%;
+#nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+#nav li {
+  float: left;
+}
+#nav li a {
+  display: block;
+  padding: 8px;
+  background-color: #ddd;
 }
 #header {
   background-color: green;
