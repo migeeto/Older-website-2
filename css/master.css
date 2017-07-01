@@ -2,6 +2,9 @@ html, body {
   margin: 0;
   padding: 0;
 }
+.hidden {
+  display: none;
+}
 #page-container {
   width: 760px;
   margin: auto;
