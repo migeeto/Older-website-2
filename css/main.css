@@ -1,1 +1,20 @@
-
+#nav {
+  background-color: grey;
+  width: 100%;
+}
+#header {
+  background-color: green;
+  width: 100%;
+}
+#content {
+  background-color: blue;
+  width: 75%;
+}
+#sidebar {
+  background-color: red;
+  width: 25%;
+}
+#footer {
+  background-color: purple;
+  100%;
+}
