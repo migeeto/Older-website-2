@@ -29,10 +29,12 @@
 #content {
   background-color: blue;
   width: 75%;
+  display: block;
 }
 #sidebar {
   background-color: red;
   width: 25%;
+  display: block;
 }
 #footer {
   background-color: purple;
