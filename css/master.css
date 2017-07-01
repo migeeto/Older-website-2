@@ -16,6 +16,8 @@ html, body {
 }
 #sidebar-a {
   background: darkgreen;
+  float: right;
+  width: 280px;
 }
 #content {
   background: green;
