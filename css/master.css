@@ -26,20 +26,16 @@ h1 {
   height: 50px;
 }
 #header {
- background: blue;
  height: 150px;
 }
 #sidebar-a {
-  background: darkgreen;
   float: right;
   width: 280px;
 }
 #content {
-  background: green;
   margin-right: 280px;
 }
 #footer {
-  background: orange;
   height: 66px;
   clear: both;
 }
