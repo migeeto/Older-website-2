@@ -18,10 +18,12 @@ h1 {
 #content h2 {
   margin: 0;
   padding: 0;
+  padding-bottom: 15px;
 }
 #content p {
   margin:0;
   padding:0;
+  padding-bottom: 15px;
 }
 #page-container {
   width: 760px;
